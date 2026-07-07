@@ -8,6 +8,8 @@ building subsystem-specific readers on top.
 
 The module path is defined in [go.mod](./go.mod).
 
+This project is licensed under the Apache License 2.0. See [LICENSE](./LICENSE).
+
 API documentation lives in the Go package docs so it stays close to the code and
 renders cleanly in `go doc` and pkg.go.dev:
 
